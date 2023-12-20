@@ -5,6 +5,7 @@ from djitellopy import Tello
 # - secīgi jaiziet cauri visiem vārtiem
 # - jaapmeklē visas platformas
 # - jaātgriezas atpakaļ
+# - caur vārtiem drīkst līdot tikai taisni (ar kāmeru priekšā)
 
 # Dokumentācija un piemēri
 # https://github.com/damiafuentes/DJITelloPy/tree/master
